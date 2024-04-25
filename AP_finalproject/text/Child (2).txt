@@ -1,0 +1,32 @@
+Srenad 1 Renad​ Al-Asbali​ F​ 101​ 2018-03-08​ nothing​ 01 Butterflies​ Ahmad​ father​ 0564567890​ social phobia​
+
+Smohamed 2 Mohamed​ Al-Qurashi​ M​ 102 ​2018-04-15​ Peanut ​01​ Butterflies Abdulrahman​ father​ 0505555555​ nothing
+
+Srana 3 Rana​ Al-Azwari​ F​ 103​ 2019-05-22​​ nothing​ 01​ Butterflies Mohammad​ father​ 0566545210​ nothing
+
+Ssami 4 Sami​ Al-Abdali​ M​ 104​ 2018-03-27​​ Cow_milk ​ 01​ Butterflies Faisal​ brother​ 0544567890​ autistic
+
+Srawan 5 Rawan​ Felemban​ F​ 105​ 2018-07-03​​ nothing​ 01​ Butterflies Khalid​ father​ 0585555555​ nothing
+
+Smohammed​ 6 Mohammed​ Al-Shareef​ M​ 106​ 2019-09-14​​ nothing ​01​ Butterflies Fahad​ uncle​ 0556543210​ hyperactivity
+
+Sreem 7 Reem​ Al-Otaibi​ F​ 107​ 2018-01-29​​ egg ​01​ Butterflies Hamid​ father​ 0564567890​ nothing
+
+Syazan 8 Yazan​ Asiri​ M​ 108​ 2018-04-01​ nothing​ 01​ Butterflies Noor​ father​ 0545555555​ Antisocial,needs patience​
+
+Smaya 9 Maya​ Aal-Mashi​ F​ 109​ 2019-11-22​​ nothing​ 01​ Butterflies Rashid​ brother​ 0566543210​ nothing
+
+Swisam 10 Wisam​ Al-Shihri​ M​ 110​ 2019-05-02​​ wheat ​01​ Butterflies Abdullah​ father​ 0584567890 nothing
+
+Slujain 1 Lujain AlOraibi F 201 2019-10-106 nothing 02 Mansour uncle 0505555555 nothing
+
+Syaser 2 Yaser AlSommani M 202 2018-04-20 nothing 02 Majid brither 0546543210 slow understan ding
+
+Slama 3 Lama AlQarni F 203 2019-09-04 nothing 02 Alaa brither 0564567890 nothing
+
+Sghassan 4 Ghassan AlQarni M 204 2018-12-15 nothing 02 Hatem father 05855555555 nothing
+
+Sdana 5 Dama AlShemmari F 205 2018-12-15 nothing 02 AbdulMajeed father 0506543210
+
+
+user pass First Name​ Last Name​ Gender​ Child​ID​ DOB​ Allergies​ ClassID ClassName​ NameOfGuardian​ Relation​ PhoneMoOfGuardian​ Special​treatment​
