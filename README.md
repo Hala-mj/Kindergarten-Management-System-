@@ -86,8 +86,8 @@ Kindergarten-Management-System-/
 
 ## Credits
 
-Team project. Source files credit teammates as co-authors (`@author` tags).
-Built by **Hala Jalal** with teammates as a university project at Umm Al-Qura University.
+Team university project at Umm Al-Qura University. Source files credit teammates as co-authors (`@author Lujain_Alhebshi`, `yasmeen`).
+**Hala Jalal** contributed as a team member; a separate project report PDF was not available among the materials on hand.
 
 ## License
 
