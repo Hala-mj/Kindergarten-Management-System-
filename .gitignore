@@ -1,0 +1,21 @@
+# NetBeans / Ant build output
+build/
+dist/
+nbproject/private/
+*.class
+
+# Dependency jars (see lib/README.md)
+lib/*.jar
+*.jar
+
+# Local Hibernate config with real credentials
+src/project/hibernate.cfg.xml
+
+# Runtime output
+output.txt
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+*.iml
